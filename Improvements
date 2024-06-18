@@ -1,0 +1,3 @@
+- Check how the model improves with data. Like with error.
+- Check the parameters that influence the model the most. 
+- Try adding more epochs along the same data? Or does this not make sense since we already take it all?
