@@ -1,3 +1,11 @@
 - Check how the model improves with data. Like with error.
 - Check the parameters that influence the model the most. 
 - Try adding more epochs along the same data? Or does this not make sense since we already take it all?
+
+
+Further comment to discuss. We may see a decrease when using cholesterol as a feature, which we may think that it's actually better not to use it. But this is not like this, since if we remove it, the coefficients get weighted in such a way that the precision actually gets reduced. 
+
+
+
+
+Regarding the big dataset and also the other one if necessary: add markdowns to make the code as understandable as possible
