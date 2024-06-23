@@ -20,6 +20,7 @@ The goal of this project is to create reliable models to predict whether an indi
 - Feature Importance Analysis
 - Log Loss Analysis
 - Comparison of Datasets
+- Tableau Visualization
 - Conclusion
 
 ## Datasets
