@@ -26,11 +26,11 @@ The goal of this project is to create reliable models to predict whether an indi
 ## Datasets
 
 ### Blood Parameters Dataset
-This smaller dataset includes detailed blood parameters used as indicators of heart disease. 
+This smaller dataset includes detailed blood parameters used as indicators of heart disease. This is the *heart-blood_data.csv*.
 
 ### General Health Categories Dataset
 This larger dataset contains a variety of features related to general health categories, providing a broader perspective on factors influencing heart disease risk.
-
+This is the *hearrt-categories.csv*.
 ## Preprocessing
 
 - **Standardization:** The features are standardized using `StandardScaler` to have a mean of 0 and a standard deviation of 1.
@@ -79,6 +79,11 @@ The log loss (binary cross-entropy) is analyzed as a function of the training da
 ## Comparison of Datasets
 
 The performance of the logistic regression model is compared between the blood parameters dataset and the general health categories dataset to understand the impact of different types of features on the prediction of heart disease risk.
+
+## Tableau Visualization
+
+A Tableau visualization is created to map the cases of heart attacks across the US. This visualization provides a geographic perspective on the distribution and frequency of heart attacks, offering additional insights into regional patterns and risk factors. Please visit this [Tableau Visualization](https://public.tableau.com/shared/67STXKFPH?:display_count=n&:origin=viz_share_link).
+
 
 ## Conclusion
 
