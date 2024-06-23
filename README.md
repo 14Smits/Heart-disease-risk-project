@@ -21,7 +21,6 @@ The goal of this project is to create reliable models to predict whether an indi
 - Log Loss Analysis
 - Comparison of Datasets
 - Conclusion
-- License
 
 ## Datasets
 
