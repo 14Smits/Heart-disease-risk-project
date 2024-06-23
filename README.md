@@ -30,7 +30,7 @@ This smaller dataset includes detailed blood parameters used as indicators of he
 
 ### General Health Categories Dataset
 This larger dataset contains a variety of features related to general health categories, providing a broader perspective on factors influencing heart disease risk.
-This is the *hearrt-categories.csv*.
+This is the *heart-categories.csv*.
 ## Preprocessing
 
 - **Standardization:** The features are standardized using `StandardScaler` to have a mean of 0 and a standard deviation of 1.
